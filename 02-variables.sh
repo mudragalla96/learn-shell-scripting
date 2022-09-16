@@ -4,11 +4,11 @@ c=true
 
 echo value of a = $a
 
-command substitution
+#command substitution
 
 DATE=$(date)
 echo today date is $DATE
 
-arthematic substitution
+ #arthematic substitution
 ADD=$((2+3+4))
 echo addition of 2+3+4 is $ADD
