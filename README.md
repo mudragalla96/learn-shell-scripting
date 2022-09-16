@@ -1,9 +1,9 @@
 # learn-shell-scripting
 
 
-list of shell scripting topics
-1.shebang & comments     (scripting concept)
-2.print command          (command) 
+ List of shell scripting topics
+1.Shebang & comments     (scripting concept)
+2.Print command          (command) 
 3.Redirectos & Quotes    (linux concept)
 4.variables              (scripting concept)
 5.Input                  (scripting concept)
